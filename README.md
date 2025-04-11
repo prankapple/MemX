@@ -1,5 +1,5 @@
 # MemX
-Its a malware based on memz made in C#.
+Its a gdi trojan based on memz made in C#.
 
 # WARNING: Malicious Software Alert 🚨
 
